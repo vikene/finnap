@@ -1,0 +1,18 @@
+Creating   'os_main.eep'
+Creating   'os_main.hex'
+Creating   'os_main.obj'
+Creating   'os_main.lis'
+Creating   'os_main.map'
+
+Assembling 'os_main.asm'
+Including  'C:\VMLAB\include\m8def.inc'
+os_main.asm(50) : error : Duplicate label
+os_main.asm(51) : error : Duplicate label
+os_main.asm(52) : error : Duplicate label
+
+Assembly complete with 3 errors
+
+Deleting   'os_main.eep'
+Deleting   'os_main.obj'
+Deleting   'os_main.hex'
+Deleting   'os_main.map'
